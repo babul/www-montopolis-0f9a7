@@ -2,7 +2,7 @@ title: Stackbit Starter Theme
 baseURL: /
 params:
   header:
-    title: Starter
+    title: 'The Montopolis Group, Ltd.'
     has_nav: true
     nav_links:
       - label: Features
